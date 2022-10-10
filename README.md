@@ -16,4 +16,5 @@ More videos of the Unity scripts found in "Assets" demonstrating further researc
 
 ## References
 (1) https://github.com/AtsushiSakai/PythonRobotics/blob/master/PathPlanning/PotentialFieldPlanning/potential_field_planning.py
+
 (2) Zhang, Q., Yue, S., Yin, Q., & Zha, Y. (2013). Dynamic Obstacle-Avoiding Path Planning for Robots Based on Modified Potential Field Method. Simulation Engineering Institute, School of Information System and Management, National University of Defense Technology.
